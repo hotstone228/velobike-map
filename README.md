@@ -10,10 +10,6 @@ A simple web map for visualizing Velobike (Moscow city bike) locations and statu
 - Quick copy of bike ID and direct rent link (Telegram bot)
 - Mobile-friendly UI
 
-## Demo
-
-Try it live: [https://hotstone228.github.io/velobike-map/](https://hotstone228.github.io/velobike-map/)
-
 ## Usage
 
 1. Clone the repository:
