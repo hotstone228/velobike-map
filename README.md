@@ -55,10 +55,14 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
 
 All dependencies are loaded via CDN.
 
+## Main Repository: Velobike Bot
+
+This map is a companion project to the main Velobike bot repository:
+
+- **Bot & Backend:** [hotstone228/velobike-bot](https://github.com/hotstone228/velobike-bot)
+
+The bot provides rental, notifications, and backend API for Velobike. For full functionality and backend details, see the main repo above.
+
 ## License
 
 MIT
-
----
-
-Created by [hotstone228](https://github.com/hotstone228)
